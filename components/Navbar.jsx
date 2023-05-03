@@ -10,7 +10,7 @@ const Navbar = () => (
   variants={navVariants}
   initials="hidden"
   whileInView="show"
-  className={`${styles.xPaddings} py-8 relative`}>
+  className={`${styles.xPaddings} py-10 relative`}>
     <div className='absolute w-[50%] inset-0 gradient-01'/>
     <div className={`${styles.innerWidth} mx-auto flex justify-between gap-8`}>
 
@@ -18,8 +18,8 @@ const Navbar = () => (
 src="/search.svg"
 alt="Search"
 className="w-2[24px] h-[24px] object-contain"/>
-<h2 className='font-extrabold text-[24px] leading-[30px] text-white'>
-YACHT GEM
+<h2 className='font-extrabold text-[24px]  text-white '>
+GEM LUXURY EXPERIENCE
 
 </h2>
 <imd

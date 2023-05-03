@@ -34,9 +34,9 @@ const Hero = () => (
       className="relative w-full md: -mt-[20px] -mt-[12px]">
 <div className="absolute w-full h- [300px] hero-gradient rounded-tl-[140px] z-[0 -top-[30px]"/>
   <img
-  src="/cover.png"
+  src="/yacht.jpg"
   alt="cover"
-  className="w-full sm:h-[500px] h-[350px] objectcover rounded-tl-[140px] z-10 relative"/>
+  className="w-[1200px] sm:h-[400px] h-[400px] objectcover rounded-tl-[140px] z-10 relative"/>
   <a href="#explore">
     <div className="w-full flex justify-end
     sm: -mt-[70px] -mt-[50px] pr-[40px] relative z-10">
