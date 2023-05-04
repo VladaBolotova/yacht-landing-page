@@ -52,7 +52,6 @@ gap-[24px]">
 </div>
     </motion.div>
   </motion.div>
-    Get Started Section
   </section>
 );
 
