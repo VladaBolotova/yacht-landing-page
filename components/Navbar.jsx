@@ -14,15 +14,15 @@ const Navbar = () => (
     <div className='absolute w-[50%] inset-0 gradient-01'/>
     <div className={`${styles.innerWidth} mx-auto flex justify-between gap-8`}>
 
-    <img
+    {/* <img
 src="/search.svg"
 alt="Search"
-className="w-2[24px] h-[24px] object-contain"/>
-<h2 className='font-extrabold text-[24px]  text-white '>
-GEM LUXURY EXPERIENCE
+className="w-2[24px] h-[24px] object-contain"/> */}
+{/* <h2 className='font-extrabold text-[24px]  text-white ml-[54px] '>
+      GEM LUXURY YACHT FOR CHARTERS
 
-</h2>
-<imd
+</h2> */}
+{/* <imd
 src="/menu.svg"
 alt="menu"
 className="w-[24px] object-contain"
@@ -30,7 +30,7 @@ className="w-[24px] object-contain"
 <img
 src="/menu.svg"
 alt="Search"
-className="w-2[24px] h-[24px] object-contain"/>
+className="w-2[24px] h-[24px] object-contain"/> */}
 
 
     </div>

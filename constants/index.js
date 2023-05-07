@@ -1,35 +1,35 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
+    imgUrl: '/1.jpg',
     title: 'The Hogwarts',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
+    imgUrl: '/2.jpg',
     title: 'The Upside Down',
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
+    imgUrl: '/3.jpg',
     title: 'Kadirojo Permai',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
+    imgUrl: '4.jpg',
     title: 'Paradise Island',
   },
   {
     id: 'world-5',
-    imgUrl: '/planet-05.png',
+    imgUrl: '/5.jpg',
     title: 'Hawkins Labs',
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  '4 hours = $3000, 6 hours = $3750, 8 hours = $4500. All weekend charters can only be 4,6 or 8 hours. If you book 8 hours you can select any start time you like. If you book 4 hours you can only select an 11 am or 4 pm start time. ',
+  'Charter includes captain and stewardess, ice, soft drinks, water and Jetski. All the stateroom will be locked except one for day charter. Absolutely no pets will be allowed. Limit of 13 guests.',
+  'Embark and disembark at: 300 Alton road, Slip F22, parking and valet available.',
 ];
 
 export const newFeatures = [

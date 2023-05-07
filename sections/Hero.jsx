@@ -22,11 +22,14 @@ const Hero = () => (
         <motion.div 
         variants={textVariant(1.2)}
         className="flex flex-row justify-center items-center">
-        <h1 className={styles.heroHeading}>Ma
+        <h1 className={styles.heroHeading}>Luxury
         </h1>
         <div className={styles.heroDText}></div>
-        <h1 className={styles.heroHeading}>ness
+        <h1 className={styles.heroHeading}>yacht experience
         </h1>
+        <div>
+          
+        </div>
         </motion.div>
       </div>
       <motion.div
@@ -34,18 +37,18 @@ const Hero = () => (
       className="relative w-full md: -mt-[20px] -mt-[12px]">
 <div className="absolute w-full h- [300px] hero-gradient rounded-tl-[140px] z-[0 -top-[30px]"/>
   <img
-  src="/yacht.jpg"
+  src="/ph.jpg"
   alt="cover"
-  className="w-[1200px] sm:h-[400px] h-[400px] objectcover rounded-tl-[140px] z-10 relative"/>
+  className="w-[1200px] sm:h-[600px] h-[600px] objectcover rounded-tl-[140px] z-10 relative"/>
   <a href="#explore">
     <div className="w-full flex justify-end
     sm: -mt-[70px] -mt-[50px] pr-[40px] relative z-10">
-      <img 
+      {/* <img 
       src="/stamp.png"
       alt="stamp"
       className="sm:w-[155px] w-[100px] sm:h
       [155px] h-[100px] object-contain">
-      </img>
+      </img> */}
     </div>
   </a>
 
