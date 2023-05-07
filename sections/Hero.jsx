@@ -22,37 +22,23 @@ const Hero = () => (
         <motion.div 
         variants={textVariant(1.2)}
         className="flex flex-row justify-center items-center">
-        <h1 className={styles.heroHeading}>Luxury
+         <h1 className={styles.heroHeading}> Luxury yacht experience
         </h1>
-        <div className={styles.heroDText}></div>
-        <h1 className={styles.heroHeading}>yacht experience
-        </h1>
-        <div>
-          
-        </div>
         </motion.div>
       </div>
       <motion.div
       variants={slideIn('right', 'tween', 0.2, 1)}
       className="relative w-full md: -mt-[20px] -mt-[12px]">
-<div className="absolute w-full h- [300px] hero-gradient rounded-tl-[140px] z-[0 -top-[30px]"/>
+      <div className="absolute w-full h- [300px] hero-gradient rounded-tl-[140px] z-[0 -top-[30px]"/>
   <img
   src="/ph.jpg"
   alt="cover"
-  className="w-[1200px] sm:h-[600px] h-[600px] objectcover rounded-tl-[140px] z-10 relative"/>
+  className="w-[1200px] sm:h-[700px] h-[700px] objectcover rounded-tl-[140px] z-10 relative"/>
   <a href="#explore">
     <div className="w-full flex justify-end
     sm: -mt-[70px] -mt-[50px] pr-[40px] relative z-10">
-      {/* <img 
-      src="/stamp.png"
-      alt="stamp"
-      className="sm:w-[155px] w-[100px] sm:h
-      [155px] h-[100px] object-contain">
-      </img> */}
     </div>
   </a>
-
-
       </motion.div>
       </motion.div>
   </section>

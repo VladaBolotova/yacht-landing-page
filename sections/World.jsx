@@ -13,7 +13,7 @@ const World = () => (
   z-10`}>   <div className="mt-[8px] font-extrabold sm:text-[40 px] text-[40px]
 text-center text-secondary-white">
 
-      People around you
+      Yacht Vacation of a Lifetime with your friends!
       </div>
   <motion.div
   variants={staggerContainer}

@@ -1,8 +1,12 @@
 'use client';
 
+import { motion } from 'framer-motion';
+
+
+
+
 const Insights = () => (
   <section>
-    Insights section
   </section>
 );
 

@@ -25,12 +25,6 @@ textStyles="text-center" />
 variants={fadeIn('up', 'tween', 0.2, 1)}
 className="mt-[8px] font-normal sm:text-[32 px] text-[20px]
 text-center text-secondary-white">
-  <span className="font-extrabold text-white mt-[20px]">
-    | About the Yacht |
-
-  </span>
- 
-
    As powerful as it is graceful, the 68 Sport   <span className="font-extrabold
   text-white">
      Yacht

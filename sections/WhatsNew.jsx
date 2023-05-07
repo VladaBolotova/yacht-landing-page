@@ -26,7 +26,7 @@ const WhatsNew = () => (
     flex-col"
     >
       <div className="mt-[8px] font-extrabold sm:text-[40 px] text-[40px]
-text-center text-secondary-white"> What's new?
+text-center text-secondary-white"> Contact us!
       <div title={<>Get started with just a few clicks</>} />
 </div>
 <div
@@ -46,9 +46,9 @@ gap-[24px]">
     variants={planetVariants('right')}
     className={`flex-1 ${styles.flexCenter}`}>
       <img
-      src="/whats-new.png"
+      src="/7.jpg"
       alt="get-started"
-      className="w-[90%] h-[90%] object-contain"/>
+      className="w-[90%] h-[90%] rounded-l-[20px] rounded-r-[20px]   w-[1000px] sm:h-[500px] h-[600px] objectcover"/>
 
     </motion.div>
   </motion.div>
