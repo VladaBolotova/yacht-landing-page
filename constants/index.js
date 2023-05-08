@@ -27,8 +27,8 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  '4 hours = $3000, 6 hours = $3750, 8 hours = $4500. All weekend charters can only be 4,6 or 8 hours. If you book 8 hours you can select any start time you like. If you book 4 hours you can only select an 11 am or 4 pm start time. ',
-  'Charter includes captain and stewardess, ice, soft drinks, water and Jetski. All the stateroom will be locked except one for day charter. Absolutely no pets will be allowed. Limit of 13 guests.',
+  '4 hours = $3750, 6 hours = $4250, 8 hours = $5000. All weekend charters can only be 4,6 or 8 hours. If you book 8 hours you can select any start time you like. If you book 4 hours you can only select an 11 am or 4 pm start time. ',
+  'Charter includes the choice of captains and stewardesses, ice, soft drinks, water and Jetski. All the stateroom will be locked except one for day charter. Absolutely no pets will be allowed. Limit of 13 guests.',
   'Embark and disembark at: 300 Alton road, Slip F22, parking and valet available.',
 ];
 
