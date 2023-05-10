@@ -25,8 +25,8 @@ textStyles="text-center" />
 variants={fadeIn('up', 'tween', 0.2, 1)}
 className="pt-4 sm:pt-8 mt-[8px] font-normal sm:text-[28px] text-[20px] text-center justify-center text-secondary-white">
 
-As powerful as it is graceful, the 68 Sport <span className="font-extrabold text-white"> Yacht</span> is a classic example of <span className="font-extrabold text-white"> Sunseeker</span>innovation. The streamlined shape. The 36 knot top speed. 
-The unmistakable style. They’re all <span className="font-extrabold text-white"> Sunseeker</span> trademarks. In fact, everything about this remarkable <span className="font-extrabold text-white"> Sport Yacht</span>is the result of years of dedication and an unwavering desire to produce the best.
+As powerful as it is graceful, the 68 Sport <span className="font-extrabold text-white"> Yacht</span> is a classic example of <span className="font-extrabold text-white"> Sunseeker </span>innovation. The streamlined shape. The 36 knot top speed. 
+The unmistakable style. They’re all <span className="font-extrabold text-white"> Sunseeker </span> trademarks. In fact, everything about this remarkable <span className="font-extrabold text-white"> Sport Yacht </span>is the result of years of dedication and an unwavering desire to produce the best.
 Inside, the main saloon has everything you could wish for; state-of-the-art entertainment systems, high-quality fabrics, and plenty of natural light. It’s the perfect entertainment space.
 Below deck, the guest cabins are equally impressive, while outside, lavishness is taken to a whole new level thanks to the large sunpads both fore and aft.
 When first impressions count, this impeccable <span className="font-extrabold text-white"> yacht</span>always delivers.
