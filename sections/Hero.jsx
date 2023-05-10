@@ -44,19 +44,19 @@ const Hero = () => (
 
       <img
   src="/ph.jpg"
-  alt="cover"
-  className="w-full object-cover  z-10 relative"
-  style={{ height: '700px' }}
-/>
+  className="w-[90%] h-[90%] rounded-l-[20px] rounded-r-[20px]   w-[1300px] sm:h-[700px] h-[600px] objectcover sm:pr-4-"
+  />
 
-<style jsx>{`
+ 
+
+{/* <style jsx>{`
   @media screen and (min-width: 640px) {
     img {
       width: 1200px;
       height: 700px;
     }
   }
-`}</style>
+`}</style> */}
 
   <a href="#explore">
     <div className="w-full flex justify-end
