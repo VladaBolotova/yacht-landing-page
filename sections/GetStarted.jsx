@@ -33,18 +33,25 @@ const GetStarted = () => (
     flex-col"
     >
       <div className="mt-[8px] font-extrabold sm:text-[40 px] text-[40px]
-text-center text-secondary-white"> Get started 
-with just a 
-few steps
+text-center text-secondary-white"> Prices:
       <div title={<>Get started with just a few clicks</>} />
+      <div>
+         4 hours-3750$
+      </div>
+      <div>
+         6 hours-4250$
+      </div>
+      <div>
+       8 hours-5000$
+      </div>
 </div>
 <div
 className="mt-[31px] flex flex-col max-w-[770px]
 gap-[24px]">
   {startingFeatures.map((feature, index) => (
     <StartSteps
-    key={feature}
-    number={index + 1}
+  
+  
     text={feature}
     />
  ))}
