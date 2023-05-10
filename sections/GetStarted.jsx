@@ -35,13 +35,13 @@ const GetStarted = () => (
       <div className="mt-[8px] font-extrabold sm:text-[40 px] text-[40px]
 text-center text-secondary-white"> Prices:
       <div title={<>Get started with just a few clicks</>} />
-      <div>
+      <div className='sm:-[20px] text-[24px]'>
          4 hours-3750$
       </div>
-      <div>
+      <div className='sm:-[20px] text-[24px]'>
          6 hours-4250$
       </div>
-      <div>
+      <div className='sm:-[20px] text-[24px]'>
        8 hours-5000$
       </div>
 </div>
