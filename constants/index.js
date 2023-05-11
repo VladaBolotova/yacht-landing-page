@@ -34,13 +34,13 @@ export const startingFeatures = [
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
+    imgUrl: '/mob.png',
     title: 'Cell: (917) 501-2369',
     title1: 'prixe'
    
   },
   {
-    imgUrl: '/headset.svg',
+    imgUrl: '/inst.jpeg',
     title: 'IG: yacht.gem',
     
   },

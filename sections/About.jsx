@@ -23,7 +23,8 @@ const About = () => (
 textStyles="text-center" />
 <motion.p
 variants={fadeIn('up', 'tween', 0.2, 1)}
-className="pt-4 sm:pt-8 mt-[8px] font-normal sm:text-[28px] text-[20px] text-center justify-center text-secondary-white">
+className="pt-4 sm:pt-8 mt-[8px] font-normal sm:text-[20px] text-[20px] text-center justify-center text-secondary-white mt-[31px]   max-w-[1200px]
+gap-[24px] sm:px-7 mx-auto">
 
 As powerful as it is graceful, the 68 Sport <span className="font-extrabold text-white"> Yacht</span> is a classic example of <span className="font-extrabold text-white"> Sunseeker </span>innovation. The streamlined shape. The 36 knot top speed. 
 The unmistakable style. They’re all <span className="font-extrabold text-white"> Sunseeker </span> trademarks. In fact, everything about this remarkable <span className="font-extrabold text-white"> Sport Yacht </span>is the result of years of dedication and an unwavering desire to produce the best.

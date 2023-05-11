@@ -25,21 +25,16 @@ const WhatsNew = () => (
     className="flex-[0.75] flex justify-center
     flex-col"
     >
-      <div className="mt-[8px] font-extrabold sm:text-[40 px] text-[40px]
-text-center text-secondary-white"> Contact us!
-      <div title={<>Get started with just a few clicks</>} />
+      <div className="mt-[8px]  sm:text-[40 px] text-[40px]
+text-center text-secondary-white"> Contact us.
 </div>
-<div
-className="mt-[48px] flex flex-wrap justify-between
-gap-[24px]">
+<div className="mt-[48px] flex flex-wrap justify-between justify-center sm:justify-between gap-[26px]">
   {newFeatures.map((feature, index) => (
-    <NewFeatures
-    key={feature.title}
-  {...feature}
-    />
- ))}
-
+    <NewFeatures key={feature.title} {...feature} className="text-center" />
+  ))}
 </div>
+
+
     </motion.div>
 
     <motion.div
