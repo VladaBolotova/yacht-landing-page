@@ -44,7 +44,7 @@ const Hero = () => (
 
       <img
   src="/ph.jpg"
-  className="w-full h-full sm:h-[500px] h-[350px] object-cover rounded-[24px] mx-auto "
+  className="w-full h-full sm:h-[500px] h-[350px] object-cover rounded-[24px] mx-auto sm:h-[600px] h-[350px] "
   />
 
  
