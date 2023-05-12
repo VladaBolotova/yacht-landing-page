@@ -57,6 +57,7 @@ gap-[24px] sm:px-4">
  ))}
 
 </div>
+<a href="https://www.imagevenue.com/upload/complete?session=f0909de0b72eef74477d4872cbafa747" className="block mt-8 text-secondary-white font-bold text-center hover:underline">Click to see more pictures.</a>
     </motion.div>
   </motion.div>
   </section>

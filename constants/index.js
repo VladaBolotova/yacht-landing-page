@@ -40,7 +40,7 @@ export const newFeatures = [
    
   },
   {
-    imgUrl: '/inst.jpeg',
+    imgUrl: '/i.png',
     title: 'IG: yacht.gem',
     
   },
